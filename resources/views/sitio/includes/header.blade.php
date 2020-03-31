@@ -22,7 +22,7 @@
 		  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 		    <ul class="navbar-nav mr-auto mu-navbar-nav">
 				<li class="nav-item"> 
-				<a href="/">Inicio</a>
+				<a href="/" class="ascent">Inicio</a>
 				</li>
 				<li class="nav-item dropdown">
 				<a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servicios</a>
